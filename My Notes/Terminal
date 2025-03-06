@@ -1,7 +1,12 @@
-My Github: https://github.com/manojkumarmr123/mlproject/tree/main
-
-Commands
-
+Github Commands
+# Tocommit and push the changes to main
 git add .
 git commit -m "Data Transformation"
 git push -u origin main
+
+# To set python path
+set PYTHONPATH=%cd%
+
+# Execute .py file
+python src/components/data_ingestion.py
+python app.py
