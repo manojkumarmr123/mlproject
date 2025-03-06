@@ -1,0 +1,7 @@
+My Github: https://github.com/manojkumarmr123/mlproject/tree/main
+
+Commands
+
+git add .
+git commit -m "Data Transformation"
+git push -u origin main
