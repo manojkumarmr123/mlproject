@@ -6,4 +6,17 @@
 3. Activate virtual environment
     conda activate venv/
 4. Synch Github
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/manojkumarmr123/Langchain.git
+    git push -u origin main
+5. Create .gitignore file in github UI and pull through Terminal
+    git pull
+6. Create requirements.txt and setup.py
+    Add "-e ." when you first run the requirements.txt and then comment it for second run onwards
+    pip install -r requirements.txt
+7. 
+    
     
