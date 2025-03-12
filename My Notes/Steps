@@ -1,0 +1,9 @@
+1. Create a folder and the open Anaconda prompt. Then CD to the folder and change drive if necessary (:d). 
+    And then open VS code from there, code .
+2. Create virtual environment. 
+    Open Terminal
+    conda create -p venv  python==3.8 -y
+3. Activate virtual environment
+    conda activate venv/
+4. Synch Github
+    
