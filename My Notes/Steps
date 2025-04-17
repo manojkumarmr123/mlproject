@@ -2,9 +2,9 @@
     And then open VS code from there, code .
 2. Create virtual environment. 
     Open Terminal
-    conda create -p venv  python==3.8 -y
+    conda create -p venv  python==3.8 -y OR python -m venv env
 3. Activate virtual environment
-    conda activate venv/
+    conda activate venv/ OR .\env\Scripts\activate
 4. Synch Github
     git init
     git add README.md
