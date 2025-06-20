@@ -7,7 +7,7 @@
     conda activate venv/ OR .\env\Scripts\activate
 4. Synch Github
     git init
-    git add README.md
+    git add . #To commit all the files except .gitignore
     git commit -m "first commit"
     git branch -M main
     git remote add origin https://github.com/manojkumarmr123/Langchain.git
